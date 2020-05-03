@@ -1,0 +1,9 @@
+<app-navbar></app-navbar>
+
+<div class="uk-container">
+  <div class="uk-grid uk-margin-large-top">
+    <div class="uk-width-1-3 uk-margin-small-bottom" *ngFor="let item of items">
+      <app-product-card [produto]="item"></app-product-card>
+    </div>
+  </div>
+</div>

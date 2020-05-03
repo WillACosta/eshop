@@ -1,0 +1,15 @@
+<div class="uk-card uk-card-default">
+  <div class="uk-card-media-top uk-text-center">
+    <img src="{{ produto.image }}" width="130" class="uk-margin-small-top uk-border-circle" alt="img_produto">
+  </div>
+  <div class="uk-card-body">
+    <h3 class="uk-card-title">{{ produto.name }} - {{ produto.price |  currency:'BRL':true }}</h3>
+    <p style="height: 50px;">
+      {{ produto.description }}
+    </p>
+    <button class="uk-button uk-button-default uk-button-large uk-width-1-1" (click)="add(this.produto)">
+      <span class="uk-icon uk-margin-small-right" uk-icon="icon: cart"></span>
+      Adicionar
+    </button>
+  </div>
+</div>
