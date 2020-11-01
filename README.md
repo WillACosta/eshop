@@ -1,11 +1,11 @@
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 # eShop
 
-O eShop é um e-commerce desenvolvido com angular, redux e node.js. A primeira versão traz apenas uma
+Desenvolvido com angular, redux e node.js. A primeira versão traz apenas uma
 simples demonstração de como o padrão redux pode atuar gerenciando os estados de uma aplicação. Centralizando todas as regras de negócio em um único lugar, o que torna a arquitetura do projeto mais organizada.
 
-Caso queira saber mais sobre esse maravilhoso padrão, eis um artigo interessante pra você: [Angular: Get Started With NgRx](https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c23eb)
+Para mais informações sobre o NgRx: [Angular: Get Started With NgRx](https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c23eb)
 
 ## Tecnologias utilizadas
 
