@@ -1,6 +1,6 @@
 <h1 align="center">eShop</h1>
 <p align-"center">
-  <img src="https://i.imgur.com/y5cP0N4.png" />
+  <img src="https://i.imgur.com/WxCGwxu.png" />
 </p>
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
